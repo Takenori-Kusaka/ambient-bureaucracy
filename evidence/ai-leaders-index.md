@@ -7,7 +7,7 @@
 
 | 出典者 | 立場 | 当たるべき一次ソース（候補） | 支える章 | 採取済 |
 |---|---|---|---|---|
-| Dario Amodei | Anthropic CEO | 公式エッセイ "Machines of Loving Grace"、公式ブログ、登壇 | 3, 7 | [ ] |
+| Dario Amodei | Anthropic CEO | 公式エッセイ "Machines of Loving Grace"、公式ブログ、登壇 | 3, 7 | [x] `amodei-machines-of-loving-grace.md`（第7章○／第5章は逆・別ソース要） |
 | Jensen Huang | NVIDIA CEO | 基調講演（GTC 等）、公式インタビュー | 3, 5 | [ ] |
 | Sam Altman | OpenAI CEO | 公式ブログ、X の発信 | 3, 7 | [ ] |
 | GPT系論文の著者ら | 研究者 | 原論文（Radford et al. 等）、著者本人の SNS 発信 | 3, 4 | [ ] |

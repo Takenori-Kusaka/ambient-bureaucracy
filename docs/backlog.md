@@ -10,7 +10,8 @@
 | P0 | T-01 | 一文テーゼの確定（新官僚主義→環境知能の橋を含む） | thesis | 全体 | doing |
 | P0 | T-02 | 逆説の"核の一文"を磨いて格納 | thesis | 4,5 | done（`thesis.md`） |
 | P0 | R-01 | 読者ペルソナの固定 | reader | 全体 | done（`reader.md`） |
-| P1 | E-01 | Amodei "Machines of Loving Grace" 採取（環境知能・未来） | evidence | 5,7 | todo |
+| P1 | E-01 | Amodei "Machines of Loving Grace" 採取（環境知能・未来） | evidence | 5,7 | **done**（`evidence/amodei-machines-of-loving-grace.md`） |
+| P1 | E-06 | 第5章「環境知能」を一次で支える**別ソース**探索（Amodeiは逆だった／アンビエントcomputing提唱者・他リーダー） | evidence | 5 | todo（E-01の宿題） |
 | P1 | E-02 | Jensen Huang 基調講演から採取（AIの地形） | evidence | 3,5 | todo |
 | P1 | E-03 | Sam Altman 公式発信から採取（自動化・エージェント） | evidence | 3,7 | todo |
 | P1 | E-04 | GPT系論文著者の一次発信 | evidence | 3,4 | todo |

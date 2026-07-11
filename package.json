@@ -1,0 +1,13 @@
+{
+  "name": "ambient-bureaucracy",
+  "version": "0.1.0",
+  "private": true,
+  "description": "生成AI時代の新官僚主義と環境知能をめぐる体系書（Zenn本）",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:book": "zenn new:book"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
